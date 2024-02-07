@@ -12,6 +12,12 @@ The Date Ideas App is designed to help users find the perfect date idea. Whether
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
 - **Filter Adjustments:** Easily adjust your preferences and filters to refine your date idea search.
 
+## Technologies used
+
+- [Next.js](https://nextjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [ReactJS](https://react.dev/)
+
 ## Installation
 
 To get started with the Date Ideas App, follow these simple steps:
