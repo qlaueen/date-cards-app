@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    background: url('./bg.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 .heart {
     position: relative;
@@ -17,7 +24,7 @@
     top: 0;
     width: 50px;
     height: 80px;
-    background: #fb6f92;
+    background: #FF70A5;
     border-radius: 50px 50px 0 0;
   }
   

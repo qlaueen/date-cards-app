@@ -1,0 +1,122 @@
+[
+  {
+      "date": "Picnic in the Park",
+      "description": "Pack a blanket and enjoy a relaxing day at the park. You can people-watch, enjoy the natural scenery, and have deep conversations. It's a wonderful way to spend quality time without spending a dime.",
+      "price": 0
+  },
+  {
+      "date": "Sunrise or Sunset Watching",
+      "description": "Find a scenic spot to watch the sunrise or sunset together. It's a peaceful and romantic way to start or end your day, reflecting on the beauty of nature and each other's company.",
+      "price": 0
+  },
+  {
+      "date": "Hiking Adventure",
+      "description": "Explore local trails or a state park for a day of adventure and natural beauty. Hiking is a great way to get some exercise, enjoy the outdoors, and have meaningful conversations.",
+      "price": 0
+  },
+  {
+      "date": "Volunteer Together",
+      "description": "Spend time giving back to your community by volunteering at a local shelter, food bank, or environmental cleanup. It's a rewarding experience that can strengthen your bond.",
+      "price": 0
+  },
+  {
+      "date": "Farmers' Market Adventure",
+      "description": "Explore a local farmers' market together. You can sample fresh produce, enjoy homemade treats, and maybe even pick up ingredients to cook a meal together later. It's a fun way to explore local cuisine on a budget.",
+      "price": 1
+  },
+  {
+      "date": "Local Museum Visit",
+      "description": "Many museums have free or donation-based entry days. Take advantage of these to explore art, history, or science together. It's an educational and inspiring date option.",
+      "price": 1
+  },
+  {
+      "date": "Coffee Shop Conversations",
+      "description": "Pick a cozy coffee shop and spend a few hours chatting over your favorite coffee or tea. It's a low-cost way to enjoy a casual date and dive deep into conversation.",
+      "price": 1
+  },
+  {
+      "date": "DIY Craft Night",
+      "description": "Gather supplies and choose a DIY project to work on together. Whether it's painting, building something, or crafting, it's a creative way to spend time and make something memorable.",
+      "price": 1
+  },
+  {
+      "date": "Matinee Movie Date",
+      "description": "Attend a matinee movie or find a local community theater production. These options are usually cheaper than prime-time showings, offering a classic date experience that allows you to enjoy arts and entertainment without breaking the bank.",
+      "price": 2
+  },
+  {
+      "date": "Botanical Garden Stroll",
+      "description": "Visit a botanical garden and enjoy the serene beauty of plants and flowers. It's a beautiful setting for a date, offering plenty of sights to admire and discuss.",
+      "price": 2
+  },
+  {
+      "date": "Mini-Golf Challenge",
+      "description": "Have a playful date at a mini-golf course. It's a fun, light-hearted activity that adds a bit of friendly competition to your date.",
+      "price": 2
+  },
+  {
+      "date": "Local Brewery or Winery Tour",
+      "description": "Take a tour of a local brewery or winery, complete with tastings. It's an engaging way to learn about the brewing or winemaking process and enjoy some delicious samples.",
+      "price": 2
+  },
+  {
+      "date": "Happy Hour Dining",
+      "description": "Dine at a trendy restaurant during happy hour. Many places offer great deals on appetizers and drinks. It's a perfect way to experience fine dining and sophisticated ambiance without the full price tag.",
+      "price": 3
+  },
+  {
+      "date": "Jazz Night Out",
+      "description": "Find a local jazz club or bar with live music. Enjoy the sophisticated atmosphere and live performances for a night of culture and entertainment.",
+      "price": 3
+  },
+  {
+      "date": "Themed Dinner Night",
+      "description": "Choose a theme and dine at a restaurant that fits. Whether it's trying a new cuisine or dining in the dark, it's an exciting way to make dinner more than just a meal.",
+      "price": 3
+  },
+  {
+      "date": "Escape Room Challenge",
+      "description": "Test your teamwork and problem-solving skills in an escape room. It's an exhilarating and unique date that's sure to be memorable.",
+      "price": 3
+  },
+  {
+      "date": "Couples' Cooking Class",
+      "description": "Take a couples' cooking class together. It's a unique and interactive way to spend an evening, learning a new skill while enjoying the fruits of your labor. It's perfect for foodies looking for a memorable date night.",
+      "price": 4
+  },
+  {
+      "date": "Hot Air Balloon Ride",
+      "description": "Splurge on a hot air balloon ride for breathtaking views and unforgettable memories. It's a once-in-a-lifetime experience perfect for marking special occasions.",
+      "price": 4
+  },
+  {
+      "date": "Spa Day Together",
+      "description": "Book a couples' spa day for relaxation and pampering. Enjoy massages, facials, and other treatments for a day of luxury and rejuvenation.",
+      "price": 4
+  },
+  {
+      "date": "Luxury Dinner Cruise",
+      "description": "Enjoy a dinner cruise with stunning views and gourmet food. It's a romantic and luxurious way to spend an evening together, with the added beauty of the water.",
+      "price": 4
+  },
+  {
+      "date": "Weekend Getaway",
+      "description": "Plan a weekend getaway to a nearby bed and breakfast or a boutique hotel. Explore a new city, enjoy romantic dinners, and create lasting memories. It's a splurge that offers a special experience beyond the ordinary.",
+      "price": 5
+  },
+  {
+      "date": "Helicopter Tour",
+      "description": "Take to the skies with a helicopter tour of your city or a scenic area. It's an exhilarating way to see familiar places from a new perspective and share a thrilling experience.",
+      "price": 5
+  },
+  {
+      "date": "Exclusive Concert or Show",
+      "description": "Get tickets to a high-demand concert or show for a night of entertainment and excitement. It's a way to enjoy a shared interest and experience top-tier performances together.",
+      "price": 5
+  },
+  {
+      "date": "Luxury Wine Tasting and Vineyard Stay",
+      "description": "Indulge in a luxury wine tasting experience followed by a stay at a vineyard. Explore fine wines, enjoy gourmet meals, and relax in beautiful surroundings for a truly opulent date.",
+      "price": 5
+  }
+]

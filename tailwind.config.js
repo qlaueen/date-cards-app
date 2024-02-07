@@ -7,11 +7,16 @@ module.exports = {
   ],
   theme: {
     colors: {
-      "primary": "#fb6f92",
-      "secondary": "#ff8fab",
-      "bright": "#ffe5ec",
+      "lavender": "#CDB4DB",
+      "lightPink": "#FFC8DD",
+      "lighterPink": "#FFEBF2",
+      "darkPink": "#FFAFCC",
+      "darkerPink": "#FF70A5",
+      "lightBlue": "#BDE0FE",
+      "darkBlue": "#A2D2FF",
       "white": "#ffffff",
       "gray": "#6b7280",
+      "black": "#000000",
     },
     extend: {
       backgroundImage: {
