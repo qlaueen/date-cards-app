@@ -4,6 +4,8 @@
 
 The Date Ideas App is designed to help users find the perfect date idea. Whether you're looking for something free, budget-friendly, or looking to splurge on a special occasion, this app has a wide range of creative date ideas to choose from. With features like random idea selection, detailed descriptions, and a price filter, planning your next date has never been easier or more fun.
 
+Visit the app here: [https://date-ideas-app-9d9de2ac3953.herokuapp.com/](https://date-ideas-app-9d9de2ac3953.herokuapp.com/)
+
 ## Features
 
 - **Random Date Idea Selection:** Get a new date idea at the click of a button, selected randomly from a curated list.
